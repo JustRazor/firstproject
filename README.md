@@ -1,2 +1,2 @@
-# firstprojet
+# firstproject
 Első IKT Projekt
